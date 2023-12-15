@@ -24,6 +24,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
+Before proceeding, replace the IBM token in the `circuit.py` file.
+
 ### Training
 ```bash
 python main.py
